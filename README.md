@@ -1,2 +1,2 @@
-# OOP_Ispitni_Zadaci
-Ispitni Zadaci po Objektno Orientirano Programiranje
+# Испитни задачи по Објектно Ориентирано Програмирање
+Решенија од испитни задачи по Објектно Ориентирано Програмирање
